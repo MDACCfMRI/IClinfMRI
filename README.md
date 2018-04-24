@@ -7,7 +7,7 @@ mapping and clinical studies. Front Neuroinform. 2018 Mar 9;12:11. doi:10.3389/f
 
 
 ## Installation
-**IClinfMRI** software requires
+#### **IClinfMRI** software requires
 
 | Software      | Version | Link                                             |
 | ------------- |:-------:| ------------------------------------------------:|
@@ -20,11 +20,11 @@ to be installed and their functionalities verified before using IClinfMRI.
 
 *Since AFNI is designed to run on Unix or Mac OS, those using a Windows operating system must install a virtual machine to run IClinfMRI.*
 
-### Steps:
+#### Steps:
 
 1. After downloading this software, please unzip the IClinfMRI.zip file to a local directory. 
 
-2. Under the MATLAB environmentm,the user can click on “Set Path” and add the local directory containing IClinfMRI to the path to complete the installation
+2. Under the MATLAB environmentm, the user can click on “Set Path” and add the local directory containing IClinfMRI to the path to complete the installation
 
 
 ## Getting started
