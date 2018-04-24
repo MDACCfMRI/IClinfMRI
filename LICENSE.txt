@@ -1,14 +1,37 @@
 This IClinfMRI software (the “Software”) is an image processing 
 toolbox that integrates advanced fMRI methods for clinical research.
+
 © 2017 The University of Texas MD Anderson Cancer Center.
 
-The Software is being provided to you by The University of Texas MD Anderson Cancer Center (“MD Anderson”), at no charge, under the terms of the GNU General Public License as published by the Free Software Foundation (the “Open Source License”), a copy of which could be found at <http://www.gnu.org/licenses/>.
+The Software is being provided to you by The University of Texas MD 
+Anderson Cancer Center (“MD Anderson”), at no charge, under the terms 
+of the GNU General Public License as published by the Free Software 
+Foundation (the “Open Source License”), a copy of which could be found 
+at <http://www.gnu.org/licenses/>.
 
-The Software is available for use, free of charge, solely for educational and scientific purposes; provided, however, MD Anderson is not providing the Software for, and you acknowledge that the Software is not approved for, any clinical purposes. Use or incorporation of the Software or data derived from the Software in commercial applications or commercial publications requires MD Anderson’s prior written permission.
+The Software is available for use, free of charge, solely for educational 
+and scientific purposes; provided, however, MD Anderson is not providing 
+the Software for, and you acknowledge that the Software is not approved 
+for, any clinical purposes. Use or incorporation of the Software or data 
+derived from the Software in commercial applications or commercial 
+publications requires MD Anderson’s prior written permission.
 
-THE SOFTWARE IS PROVIDED AS-IS, WHERE IS, AND NEITHER MD ANDERSON, NOR ANY OF THE AUTHORS OF THE SOFTWARE, MAKE ANY REPRESENTATIONS OR WARRANTIES REGARDING THE SOFTWARE, IMPLIED OR EXPRESS, INCLUDING WITHOUT LIMITATIONS, ANY REPRESENTATIONS OR WARRANTIES OF THE SUITABILITY AND/OR THE USEFULNESS OF THE SOFTWARE FOR ANY PARTICULAR PURPOSE OR ANY REPRESENTATIONS OR WARRANTIES OF NON-INFRINGEMENT. MD ANDERSON SHALL NOT BE LIABLE FOR ANY DAMAGES, COSTS AND/OR LIABILITIES SUFFERED BY YOU AS A RESULT OF USING OR MODIFYING THE SOFTWARE OR ITS DERIVATIVES.
+THE SOFTWARE IS PROVIDED AS-IS, WHERE IS, AND NEITHER MD ANDERSON, NOR 
+ANY OF THE AUTHORS OF THE SOFTWARE, MAKE ANY REPRESENTATIONS OR WARRANTIES 
+REGARDING THE SOFTWARE, IMPLIED OR EXPRESS, INCLUDING WITHOUT LIMITATIONS, 
+ANY REPRESENTATIONS OR WARRANTIES OF THE SUITABILITY AND/OR THE USEFULNESS 
+OF THE SOFTWARE FOR ANY PARTICULAR PURPOSE OR ANY REPRESENTATIONS OR 
+WARRANTIES OF NON-INFRINGEMENT. MD ANDERSON SHALL NOT BE LIABLE FOR ANY 
+DAMAGES, COSTS AND/OR LIABILITIES SUFFERED BY YOU AS A RESULT OF USING OR 
+MODIFYING THE SOFTWARE OR ITS DERIVATIVES.
 
-By using the Software, you are accepting and agreeing to the above terms of use, and you assume all liability and responsibility for your use of the Software.
+By using the Software, you are accepting and agreeing to the above terms 
+of use, and you assume all liability and responsibility for your use of 
+the Software.
 
 Acknowledgement:
-Several functions in IClinfMRI are called from dcm2nii (https://www.nitrc.org/projects/dcm2nii/), AFNI (Cox et al., 1996), and SPM12 (Welcome Department of Cognitive Neurology, Institute of Neurology, London, UK). The meta-analysis result used in IClinfMRI was downloaded from Neurosynth (https://zenodo.org/record/9925?ln=en#.VjgDCa4RFE4) (Yarkoni et al., 2011).
+Several functions in IClinfMRI are called from dcm2nii 
+(https://www.nitrc.org/projects/dcm2nii/), AFNI (Cox et al., 1996), and SPM12 
+(Welcome Department of Cognitive Neurology, Institute of Neurology, London, UK). 
+The meta-analysis result used in IClinfMRI was downloaded from Neurosynth 
+(https://zenodo.org/record/9925?ln=en#.VjgDCa4RFE4) (Yarkoni et al., 2011).
