@@ -1,5 +1,5 @@
-This IClinfMRI software (the “Software”) is an image processing 
-toolbox that integrates advanced fMRI methods for clinical research.
+This IClinfMRI software (the “Software”) is an image processing toolbox 
+that integrates advanced fMRI methods for clinical research.
 
 © 2017 The University of Texas MD Anderson Cancer Center.
 
