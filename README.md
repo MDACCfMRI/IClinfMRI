@@ -6,19 +6,15 @@ Hsu AL, Hou P, Johnson JM, Wu CW, Noll KR, Prabhu SS, Ferguson SD, Kumar VA, Sch
 mapping and clinical studies. Front Neuroinform. 2018 Mar 9;12:11. doi:10.3389/fninf.2018.00011.
 
                                                           [Installation]
-This software requires 
-(1) SPM12 v6685 (http://www.fil.ion.ucl.ac.uk/spm/software/spm12/)
-(2) dcm2nii (https://www.nitrc.org/projects/dcm2nii/)
-(3) AFNI (https://afni.nimh.nih.gov/)
-to be installed and their functionalities verified before using IClinfMRI.
-
 This software requires
-| software | version | link  |
-| -------- |:--------|:-------------------------------------------------:|
-| SPM12    | v6685   | http://www.fil.ion.ucl.ac.uk/spm/software/spm12/  |
-| dcm2nii  |         | https://www.nitrc.org/projects/dcm2nii/           |
-| AFNI     |         | https://afni.nimh.nih.gov/                        |
 
+| software      | version | link                                             |
+| ------------- |:-------:| ------------------------------------------------:|
+| SPM12         | v6685   | http://www.fil.ion.ucl.ac.uk/spm/software/spm12/ |
+| dcm2nii       |         | https://www.nitrc.org/projects/dcm2nii/          |
+| AFNI          |         | https://afni.nimh.nih.gov/                       |
+
+to be installed and their functionalities verified before using IClinfMRI.
 
 
 *Since AFNI is designed to run on Unix or Mac OS, those using a Windows operating system must install a virtual machine to run IClinfMRI.
