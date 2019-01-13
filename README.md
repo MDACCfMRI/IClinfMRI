@@ -18,7 +18,7 @@ mapping and clinical studies. Front Neuroinform. 2018 Mar 9;12:11. <https://doi.
 to be installed and their functionalities verified before using IClinfMRI.
 
 
-**Since AFNI is designed to run on Unix or Mac OS, those using a Windows operating system must install a virtual machine to run IClinfMRI.*
+*Since AFNI is designed to run on Unix or Mac OS, those using a Windows operating system must install a virtual machine to run IClinfMRI.*
 
 **IClinfMRI was developed under the MATLAB 2014a. Its functionality may be limited when using other MATLAB versions.*
 
