@@ -10,6 +10,7 @@ mapping and clinical studies. Front Neuroinform. 2018 Mar 9;12:11. <https://doi.
 
 | Software      | Version | Link                                             |
 | ------------- |:-------:| ------------------------------------------------:|
+| MATLAB        | 2014a*  |  
 | SPM12         | v6685   | http://www.fil.ion.ucl.ac.uk/spm/software/spm12/ |
 | dcm2nii       |         | https://www.nitrc.org/projects/dcm2nii/          |
 | AFNI          |         | https://afni.nimh.nih.gov/                       |
@@ -18,12 +19,13 @@ to be installed and their functionalities verified before using IClinfMRI.
 
 
 *Since AFNI is designed to run on Unix or Mac OS, those using a Windows operating system must install a virtual machine to run IClinfMRI.*
+*IClinfMRI was developed under the MATLAB 2014a. Its functionality may be limited when using other MATLAB versions.*
 
 #### Steps:
 
 1. After downloading this software, please unzip the IClinfMRI.zip file to a local directory. 
 
-2. Under the MATLAB environmentm, the user can click on “Set Path” and add the local directory containing IClinfMRI to the path to complete the installation
+2. Under the MATLAB environment, the user can click on “Set Path” and add the local directory containing IClinfMRI to the path to complete the installation
 
 
 ## Getting started
