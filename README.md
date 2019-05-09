@@ -24,7 +24,7 @@ to be installed and their functionalities verified before using IClinfMRI.
 
 #### Steps:
 
-1. After downloading this software, please unzip the IClinfMRI.zip file to a local directory. 
+1. After downloading this software, please unzip the IClinfMRI_v111.zip file to a local directory. 
 
 2. Under the MATLAB environment, the user can click on “Set Path” and add the local directory containing IClinfMRI to the path to complete the installation
 
