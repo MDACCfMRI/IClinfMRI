@@ -31,6 +31,8 @@ to be installed and their functionalities verified before using IClinfMRI.
 
 ## Getting started
 
+Please use terminal rather than icon to launch the MATLAB for building up the link of afni and dcm2nii from the terminal to MATLAB
+
 In the MATLAB command window, type:
 ```
 IClinfMRI 
