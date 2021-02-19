@@ -45,3 +45,7 @@ IClinfMRI
 to opens the main GUI window. 
 
 *Key arguments specified in the functions are described in the published paper (<https://doi.org/10.3389/fninf.2018.00011>).*
+
+## Limitations
+
+The coordinate-based registration (CBR) as implemented does not handle oblique angles. Using CBR with oblique images may cause mis-registration between functional and anatomical images.
